@@ -36,4 +36,5 @@ I enjoy learning and I'm always looking for new challenges.
 
 <a href="https://github.com/lmbcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmbcode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### Support Me on Twitch
+[![Twitch](https://img.shields.io/badge/Twitch-laminsz-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/laminsz)
