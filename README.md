@@ -38,6 +38,10 @@ I enjoy learning and I'm always looking for new challenges.
 
 ### Projects
 
-E-commerce shoe app
+## E-commerce shoe app
+
 <img src ="https://user-images.githubusercontent.com/97587141/195929235-9d1e957b-d143-4027-a9b5-784decf11de8.png" width = "200" height="300" align="left">
 
+## Movies App
+
+<img src = "https://user-images.githubusercontent.com/97587141/184680489-9f8f2018-7490-4660-867b-c8a45cfc5113.png" width = "250" height="250" align="left">
