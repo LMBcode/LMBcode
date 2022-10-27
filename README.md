@@ -36,3 +36,8 @@ I enjoy learning and I'm always looking for new challenges.
 
 <a href="https://github.com/lmbcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmbcode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Projects
+
+E-commerce shoe app
+<img src ="https://user-images.githubusercontent.com/97587141/195929235-9d1e957b-d143-4027-a9b5-784decf11de8.png" width = "200" height="300" align="left">
+
