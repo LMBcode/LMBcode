@@ -29,19 +29,19 @@ I enjoy learning and I'm always looking for new challenges.
 
 ### Projects
 
-#### E-commerce shoe app
+#### [E-commerce shoe app](https://github.com/LMBcode/ecommerceapp)
 
 <img src ="https://user-images.githubusercontent.com/97587141/195929235-9d1e957b-d143-4027-a9b5-784decf11de8.png" width = "175" height="300" align="left">
 
 
-#### Movies App
+#### [Movies App](https://github.com/LMBcode/MoviesApp)
 
 <img src = "https://user-images.githubusercontent.com/97587141/184680489-9f8f2018-7490-4660-867b-c8a45cfc5113.png" width = "175" height="300" align="left">
 
-#### Guess the Player App
+#### [Guess the Player App](https://github.com/LMBcode/GuessThePlayer)
 <img src = "https://user-images.githubusercontent.com/97587141/184537509-4d9ca338-63d5-47dd-a581-e08d2e6a62c4.png" width = "175" height = "300"  align="left">
 
-#### Guess the Flag
+#### [Guess the Flag](https://github.com/LMBcode/FlagsApp)
 
 <img src = "https://user-images.githubusercontent.com/97587141/184535185-62f9c105-f84b-4f8e-b38d-5943a9042895.png" width = "175" height = "300">
 
