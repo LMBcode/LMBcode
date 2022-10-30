@@ -4,7 +4,12 @@
 Android Developer
 ----------------
 
-My name is Mouhamed El Amine, I'm currently looking for an entry-level or internship job as a Mobile Developer in Android. I'm currently studying Multi-platform Application Development planning to graduate in 2024. I started learning how to program with Python at school but wasn't really focused on it but knew that it'll be something that I'll be doing in the future. A year later, I took a famous course named CS50x . I then picked up an interest in Mobile Development just after finishing CS50x. I've been learning how to build Android apps for over a year now and I've completed several projects.
+
+
+![https://github.com/LMBcode](https://user-images.githubusercontent.com/97587141/198896264-228f75c8-e9a8-4ca0-bbb7-3ca6caaa8e35.jpg)
+
+My name is Mouhamed El Amine, I'm currently looking for a Junior Android Developer job. I am a first year Associate Degree CS student.I have one year experience with Android Development and have completed several projects over the last year .I use the latest technologies in Android such as Kotlin,MVVM,Firebase,Coroutines.... I consider myself a dedicated , motivated and a hardworking person . I take every opportunity as if it was my last . 
+
  
 I enjoy learning and I'm always looking for new challenges.
 
