@@ -1,7 +1,7 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mouhamed El Amine
 =========================================================================================================================================
 
-Mobile Developer
+Android Developer
 ----------------
 
 My name is Mouhamed El Amine, I'm currently looking for an entry-level or internship job as a Mobile Developer in Android. I'm currently studying Multi-platform Application Development planning to graduate in 2024. I started learning how to program with Python at school but wasn't really focused on it but knew that it'll be something that I'll be doing in the future. A year later, I took a famous course named CS50x . I then picked up an interest in Mobile Development just after finishing CS50x. I've been learning how to build Android apps for over a year now and I've completed several projects.
