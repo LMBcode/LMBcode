@@ -51,7 +51,7 @@ I enjoy learning and I'm always looking for new challenges.
 <img src = "https://user-images.githubusercontent.com/97587141/184535185-62f9c105-f84b-4f8e-b38d-5943a9042895.png" width = "175" height = "300">
 
 
-<a href="https://github.com/lmbcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmbcode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/lmbcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmbcode&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ### Socials
