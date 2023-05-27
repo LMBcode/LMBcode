@@ -15,7 +15,7 @@ I enjoy learning and I'm always looking for new challenges.
 
 * 🌍  I'm based in Barcelona,Spain
 * ✉️  You can contact me at [laminmb25@gmail.com](mailto:laminmb25@gmail.com)
-* 🧠  I'm learning Android , Kotlin
+* 🧠  Android Developer
 * ⚡  Big Football Fan , I love sports
 *     I am a very competitive person
 
